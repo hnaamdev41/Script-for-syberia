@@ -1,3 +1,15 @@
+#!/bin/bash
+#
+# Copyright (C) 2020 TheHitMan7 (Kartik Verma)
+#
+
+# Clone this script in your ROM repository using following commands
+# cd repository
+# curl https://raw.githubusercontent.com/TRINKET-ANDROID/platform_build/master/build-setup.sh > build-setup.sh
+#
+# Install dependencies using following commands
+# chmod +x build-setup.sh
+# . build-setup.sh
 git clone https://github.com/hnaamdev41/display-caf.git -b ten hardware/qcom/display-caf/msm8996
 git clone https://github.com/hnaamdev41/audio-caf.git -b ten hardware/qcom/audio-caf/msm8996
 git clone https://github.com/hnaamdev41/media-caf.git -b ten hardware/qcom/media-caf/msm8996
