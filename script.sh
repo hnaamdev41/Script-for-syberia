@@ -23,8 +23,6 @@ git clone https://github.com/TRINKET-ANDROID/platform_packages_apps_FMRadio.git 
 git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_fm-commonsys.git -b 10.0 vendor/qcom/opensource/fm-commonsys
 git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_libfmjni.git -b 10.0 vendor/qcom/opensource/libfmjni
 git clone https://github.com/TRINKET-ANDROID/platform_hardware_qcom-caf_common.git -b 10.0 hardware/qcom/common
-git clone https://github.com/hnaamdev41/device_xiaomi_mido_Q.git -b test device/xiaomi/mido
-cd d*/x*/m* && git fetch https://github.com/omni-ten/android_device_xiaomi_mido && git cherry-pick be9a75f0d8fc39d708697097e1840101724d8da3
-cd && cd syb 
+git clone https://github.com/hnaamdev41/device_xiaomi_mido_Q.git -b syberia device/xiaomi/mido
 . b*/e* && lunch syberia_mido-eng && source ~/.bashrc && export USE_CCACHE=1 && ccache -M 100G && export SKIP_ABI_CHECKS=true 
 brunch mido
