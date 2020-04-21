@@ -13,6 +13,7 @@
 git clone https://github.com/hnaamdev41/display-caf.git -b ten hardware/qcom/display-caf/msm8996
 git clone https://github.com/hnaamdev41/audio-caf.git -b ten hardware/qcom/audio-caf/msm8996
 git clone https://github.com/hnaamdev41/media-caf.git -b ten hardware/qcom/media-caf/msm8996
+git clone https://github.com/LineageOS/android_external_ant-wireless_antradio-library.git -b lineage-17.1 external/ant-wireless/antradio-library
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings.git -b lineage-17.1 packages/resources/devicesettings
 git clone https://github.com/zeelog/android_kernel_xiaomi_mido.git -b lineage-17.1 kernel/xiaomi/mido
 git clone https://github.com/hnaamdev41/proprietary_vendor_xiaomi.git -b ten vendor/xiaomi
