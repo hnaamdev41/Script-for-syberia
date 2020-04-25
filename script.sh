@@ -2,10 +2,9 @@
 #
 # Copyright (C) 2020 TheHitMan7 (Kartik Verma)
 #
-
 # Clone this script in your ROM repository using following commands
 # cd repository
-# curl https://raw.githubusercontent.com/TRINKET-ANDROID/platform_build/master/build-setup.sh > build-setup.sh
+# curl https://raw.githubusercontent.com/hnaamdev41/Script-for-syberia/master/script.sh > build-setup.sh
 #
 # Install dependencies using following commands
 # chmod +x build-setup.sh
