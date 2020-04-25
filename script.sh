@@ -6,9 +6,8 @@
 # cd repository
 # curl https://raw.githubusercontent.com/hnaamdev41/Script-for-syberia/master/script.sh > build-setup.sh
 #
-# Install dependencies using following commands
-# chmod +x build-setup.sh
-# . build-setup.sh
+#after cloning
+#bash build-setup.sh
 git clone https://github.com/hnaamdev41/display-caf.git -b ten hardware/qcom/display-caf/msm8996
 git clone https://github.com/hnaamdev41/audio-caf.git -b ten hardware/qcom/audio-caf/msm8996
 git clone https://github.com/hnaamdev41/media-caf.git -b ten hardware/qcom/media-caf/msm8996
