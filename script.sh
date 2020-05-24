@@ -14,7 +14,7 @@ git clone https://github.com/hnaamdev41/media-caf.git -b ten hardware/qcom/media
 git clone https://github.com/LineageOS/android_external_ant-wireless_antradio-library.git -b lineage-17.1 external/ant-wireless/antradio-library
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings.git -b lineage-17.1 packages/resources/devicesettings
 git clone https://github.com/KudProject/kernel_xiaomi_msm8953-4.9.git -b lineage-17.1 kernel/xiaomi/mido
-git clone https://github.com/KudProject/proprietary_vendor_xiaomi.git -b ten vendor/xiaomi
+git clone https://github.com/KudProject/proprietary_vendor_xiaomi.git -b lineage-17.1 vendor/xiaomi
 git clone https://github.com/TRINKET-ANDROID/platform_external_json-c.git -b 10.0 external/json-c
 git clone https://github.com/TRINKET-ANDROID/platform_prebuilts_abi-dumps_vndk.git -b 10.0 prebuilts/abi-dumps/vndk
 git clone https://github.com/TRINKET-ANDROID/platform_prebuilts_abi-dumps_ndk.git -b 10.0 prebuilts/abi-dumps/ndk
