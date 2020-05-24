@@ -4,7 +4,7 @@
 #
 # Clone this script in your ROM repository using following commands
 # cd repository
-# curl https://raw.githubusercontent.com/hnaamdev41/Script-for-syberia/master/script.sh > build-setup.sh
+# curl https://raw.githubusercontent.com/hnaamdev41/Script-for-syberia/master/script.sh > setup.sh
 #
 #after cloning
 #bash build-setup.sh
