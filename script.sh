@@ -23,3 +23,4 @@ git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_fm-
 git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_libfmjni.git -b 10.0 vendor/qcom/opensource/libfmjni
 git clone https://github.com/TRINKET-ANDROID/platform_hardware_qcom-caf_common.git -b 10.0 hardware/qcom/common
 git clone https://github.com/hnaamdev41/device_xiaomi_mido_Q.git -b syberia_4.9 device/xiaomi/mido
+curl https://raw.githubusercontent.com/PixysOS/PixysOS_jenkins/ten/scripts/script_build.sh > script_build.sh
